@@ -1,7 +1,0 @@
-Enter the Dice Landing Page
-	Select number of sides within a set range
-
-	Reselect number of sides
-		Roll Dice
-Display results
-	Reroll Dice
